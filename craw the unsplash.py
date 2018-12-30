@@ -1,6 +1,6 @@
 import requests
 import os
-import useragent
+from unsplashSpider import useragent
 import random
 from time import sleep
 
